@@ -70,3 +70,4 @@ variable "hcp_consul_observability_credentials" {
   sensitive   = true
   description = "Credentials to enable mesh telemetry for HCP Consul Observability"
 }
+# test
